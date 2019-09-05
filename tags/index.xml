@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Kael First Hugo Site</title>
-    <link>https://yanzhiwang.github.io/tags/</link>
+    <link>https://gokael.github.io/tags/</link>
     <description>Recent content in Tags on Kael First Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Sep 2019 16:46:53 +0800</lastBuildDate>
     
-	<atom:link href="https://yanzhiwang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gokael.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo</title>
-      <link>https://yanzhiwang.github.io/tags/hugo/</link>
+      <link>https://gokael.github.io/tags/hugo/</link>
       <pubDate>Thu, 05 Sep 2019 16:46:53 +0800</pubDate>
       
-      <guid>https://yanzhiwang.github.io/tags/hugo/</guid>
+      <guid>https://gokael.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     

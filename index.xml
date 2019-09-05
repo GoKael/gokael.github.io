@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kael First Hugo Site</title>
-    <link>https://yanzhiwang.github.io/</link>
+    <link>https://gokael.github.io/</link>
     <description>Recent content on Kael First Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Sep 2019 16:46:53 +0800</lastBuildDate>
     
-	<atom:link href="https://yanzhiwang.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gokael.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>https://yanzhiwang.github.io/posts/first-post/</link>
+      <link>https://gokael.github.io/posts/first-post/</link>
       <pubDate>Thu, 05 Sep 2019 16:46:53 +0800</pubDate>
       
-      <guid>https://yanzhiwang.github.io/posts/first-post/</guid>
+      <guid>https://gokael.github.io/posts/first-post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>about</title>
-      <link>https://yanzhiwang.github.io/about/</link>
+      <link>https://gokael.github.io/about/</link>
       <pubDate>Sun, 25 Oct 2015 08:36:54 -0700</pubDate>
       
-      <guid>https://yanzhiwang.github.io/about/</guid>
+      <guid>https://gokael.github.io/about/</guid>
       <description> ABOUT TEST  1 2 3  </description>
     </item>
     
